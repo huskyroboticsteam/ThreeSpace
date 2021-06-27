@@ -31,7 +31,7 @@
 #include <mach/mach.h>
 #endif
 
-#include "impl/unix.h"
+#include "serial/impl/unix.h"
 
 #ifndef TIOCINQ
 #ifdef FIONREAD

@@ -38,11 +38,7 @@ add_library(threespace SHARED ${CXX_FILES})
 target_include_directories(threespace
   PUBLIC
   $<INSTALL_INTERFACE:include>
-  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
-  $<INSTALL_INTERFACE:include/yost>
-  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include/yost>
-  $<INSTALL_INTERFACE:include/serial>
-  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include/serial>)
+  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>)
 target_compile_features(threespace PRIVATE cxx_std_14)
 #target_compile_options(threespace PRIVATE -Werror)
 

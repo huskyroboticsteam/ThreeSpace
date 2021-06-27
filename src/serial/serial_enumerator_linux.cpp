@@ -6,7 +6,7 @@
  ***********************************************/
 
 #ifdef __linux__
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 
 extern "C" {
     #include <libudev.h>

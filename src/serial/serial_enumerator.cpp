@@ -5,7 +5,7 @@
  * http://www.yosttechnology.com/yost-3-space-open-source-license
  ***********************************************/
 
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 
 #include <algorithm>
 #include <stdlib.h>

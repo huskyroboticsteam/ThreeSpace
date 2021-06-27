@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 #include <math.h>
-#include "yost_math.hpp"
+#include "yost/yost_math.hpp"
 
 Vector3::Vector3()
 {

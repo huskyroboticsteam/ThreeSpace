@@ -1,5 +1,5 @@
 #include "threespace_api.hpp"
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -277,9 +277,9 @@ extern "C"
 
 #if defined(_MSC_VER)
 #define TSS_EXPORT __declspec(dllexport)
-#elif defined(__GNUC__) && !defined(__APPLE__)
+#elif defined(__GNUC__) && !defined(__APPLE__) && !defined(__linux__)
 #define TSS_EXPORT __attribute__ ((dllexport))
-#elif defined(__GNUC__) && defined(__APPLE__)
+#elif defined(__GNUC__)
 #define TSS_EXPORT
 #endif
 

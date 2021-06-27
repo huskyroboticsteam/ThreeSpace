@@ -4,7 +4,7 @@
  * Source License available online at:
  * http://www.yeitechnology.com/yei-3-space-open-source-license
  ***********************************************/
-#include "yost_core_api.hpp"
+#include "yost/yost_core_api.hpp"
 #include <thread>
 #include <algorithm>
 #include <time.h>

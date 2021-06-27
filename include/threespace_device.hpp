@@ -3,10 +3,10 @@
 #include <memory>
 #include <string>
 #include <vector>
-#include "yost_math.hpp"
-#include "serial.h"
+#include "yost/yost_math.hpp"
+#include "serial/serial.h"
 #include "threespace_api_export.h"
-#include "yost_core_api.hpp"
+#include "yost/yost_core_api.hpp"
 
 using namespace std;
 using namespace serial;

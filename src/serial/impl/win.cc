@@ -2,7 +2,7 @@
 
 /* Copyright 2012 William Woodall and John Harrison */
 
-#include "impl/win.h"
+#include "serial/impl/win.h"
 
 using std::string;
 using std::wstring;

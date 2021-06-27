@@ -8,7 +8,7 @@
 #ifdef _WIN32
 #define USE_BTHAPI  !defined(__GNUC__)
 
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 
 #include <objbase.h>
 #include <initguid.h>

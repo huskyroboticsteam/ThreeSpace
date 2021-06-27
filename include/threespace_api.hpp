@@ -4,12 +4,12 @@
 #include "threespace_sensor.hpp"
 #include "threespace_dongle.hpp"
 
-#include "yost_fair_mutex.hpp"
+#include "yost/yost_fair_mutex.hpp"
 
 // #include <mutex>
 #include <thread>
 
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 
 struct TssComPort
 {

@@ -6,7 +6,7 @@
  ***********************************************/
 
 #ifdef __APPLE__
-#include "serial_enumerator.hpp"
+#include "serial/serial_enumerator.hpp"
 
 #include <IOKit/usb/IOUSBLib.h>
 #include <IOKit/serial/IOSerialKeys.h>

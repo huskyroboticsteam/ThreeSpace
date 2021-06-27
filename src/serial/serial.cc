@@ -9,12 +9,12 @@
 # define alloca __builtin_alloca
 #endif
 
-#include "serial.h"
+#include "serial/serial.h"
 
 #ifdef _WIN32
-#include "impl/win.h"
+#include "serial/impl/win.h"
 #else
-#include "impl/unix.h"
+#include "serial/impl/unix.h"
 #endif
 
 using std::invalid_argument;

@@ -1,4 +1,4 @@
-#include "yost_fair_mutex.hpp"
+#include "yost/yost_fair_mutex.hpp"
 
 using namespace yost;
 
