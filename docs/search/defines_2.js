@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['true',['true',['../threespace__api__export_8h.html#a41f9c5fb8b08eb5dc3edce4dcb37fee7',1,'threespace_api_export.h']]],
+  ['tss_5fdefault_5fwireless_5fcommand_5fretries',['TSS_DEFAULT_WIRELESS_COMMAND_RETRIES',['../threespace__dongle_8hpp.html#a180363532a4547b68dd8bc3a50fbf8f5',1,'threespace_dongle.hpp']]],
+  ['tss_5fdevice_5ftype_5fdongle',['TSS_DEVICE_TYPE_DONGLE',['../threespace__device_8hpp.html#a22ec799f6319696aec6056bc10b8c4e4',1,'threespace_device.hpp']]],
+  ['tss_5fdevice_5ftype_5fsensor',['TSS_DEVICE_TYPE_SENSOR',['../threespace__device_8hpp.html#aa9cba6c987a8804997c0d0c8d08d416b',1,'threespace_device.hpp']]],
+  ['tss_5fdongle_5fnum_5fchildren',['TSS_DONGLE_NUM_CHILDREN',['../threespace__dongle_8hpp.html#a3999e1c62e981797f0b2c09c39aac6f7',1,'threespace_dongle.hpp']]],
+  ['tss_5ferror_5fcheck',['TSS_ERROR_CHECK',['../threespace__device_8hpp.html#a35298ac1383fead2586422716ebff52a',1,'threespace_device.hpp']]],
+  ['tss_5fmax_5fcommand_5freturn_5ftime_5fms',['TSS_MAX_COMMAND_RETURN_TIME_MS',['../threespace__device_8hpp.html#a5e0621cff5eedb9107ef6b836fb61a1e',1,'threespace_device.hpp']]],
+  ['tss_5fmax_5fstream_5fpacket_5fraw_5fdata_5fsize',['TSS_MAX_STREAM_PACKET_RAW_DATA_SIZE',['../threespace__device_8hpp.html#a04708d172efc14ad132965a05c78dd0c',1,'threespace_device.hpp']]],
+  ['tss_5fnum_5fstreaming_5fslots',['TSS_NUM_STREAMING_SLOTS',['../threespace__sensor_8hpp.html#ae25389b7654221b3a11bc77810cbafd1',1,'threespace_sensor.hpp']]],
+  ['tss_5fport_5fname_5fsize',['TSS_PORT_NAME_SIZE',['../threespace__api__export_8h.html#a12333cea4367d2a7a300df0e00e5e8ed',1,'threespace_api_export.h']]],
+  ['tss_5fretry',['TSS_RETRY',['../threespace__device_8hpp.html#a1bd9f782831779c502f29864f8ee4e90',1,'threespace_device.hpp']]],
+  ['tss_5fretry_5fcheck',['TSS_RETRY_CHECK',['../threespace__device_8hpp.html#ab3fb66501c9b1bca2abcd4db5bf91deb',1,'threespace_device.hpp']]],
+  ['tss_5fstart_5fstream_5fretries',['TSS_START_STREAM_RETRIES',['../threespace__device_8hpp.html#a637d2e250a20010d2ebe3e66298bbaa3',1,'threespace_device.hpp']]],
+  ['tss_5fstop_5fstream_5fretries',['TSS_STOP_STREAM_RETRIES',['../threespace__device_8hpp.html#ac32f7eaf517fbcf7b0594e4c232c07b9',1,'threespace_device.hpp']]],
+  ['tss_5fstream_5fduration_5finfinite',['TSS_STREAM_DURATION_INFINITE',['../threespace__api__export_8h.html#a5243c355000316fa253f40f53121be0d',1,'threespace_api_export.h']]],
+  ['tss_5fstream_5fpacket_5fcircular_5fbuffer_5fsize',['TSS_STREAM_PACKET_CIRCULAR_BUFFER_SIZE',['../threespace__device_8hpp.html#a6b428a76b5a941543cb80f63b6013077',1,'threespace_device.hpp']]],
+  ['tss_5fstreaming_5fpacket_5fsize',['TSS_STREAMING_PACKET_SIZE',['../threespace__api__export_8h.html#a0492e5f3278c24d2a6f4e40faa9b6f5d',1,'threespace_api_export.h']]],
+  ['tss_5fwired',['TSS_WIRED',['../threespace__api__export_8h.html#aa92b11dc81b921020741982f30324cab',1,'threespace_api_export.h']]]
+];
